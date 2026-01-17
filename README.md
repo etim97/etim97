@@ -39,4 +39,4 @@ I am passionate about continuous learning, building practical digital solutions,
 
 ##  Let’s Connect
 - GitHub: https://github.com/etim97
-- LinkedIn: [*(add link here)*](https://www.linkedin.com/in/wisdom-etim)
+- LinkedIn: https://www.linkedin.com/in/wisdom-etim
