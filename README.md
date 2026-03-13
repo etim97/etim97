@@ -27,8 +27,8 @@ I am a software developer with a strong foundation in web development, UI/UX des
 - Junior Software Developer  
 - Web / Front-End Developer  
 - Data Entry Specialist  
-- Customer Support / Service  
-- Virtual Assistant  
+- Backend development 
+- UI/UX
 
 ---
 
